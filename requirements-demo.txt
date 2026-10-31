@@ -1,0 +1,2 @@
+# Install after upstream requirements for the browser application.
+gradio>=5.0,<6

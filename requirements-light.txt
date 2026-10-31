@@ -1,0 +1,4 @@
+# Preflight and CPU tests only; does not install the model.
+PyYAML>=6.0,<7
+numpy>=1.26,<2
+pytest>=8,<9

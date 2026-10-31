@@ -1,1 +1,3 @@
 Derived from https://github.com/MeiGen-AI/Infinite-World at 1e8fc49ba7dc0f928c966c49c31fda9394c045d3. Original authors and citation retained in UPSTREAM_README.md. Original source is preserved with local demo additions; this repository is not a claim of authorship of the upstream research.
+
+Agar modifications: configurable local inference settings, chunk controls, CPU video encoding, previews and telemetry, Gradio application, CLI, experimental appearance budget, tests and documentation. The two example JPEGs are resized to at most 1280 pixels per side and recompressed; the framework image is unchanged and byte-identical to the supplied Highlights image. Bytecode caches are omitted. Upstream declares MIT, but no LICENSE file was present at this revision.
