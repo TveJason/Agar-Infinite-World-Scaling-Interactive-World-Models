@@ -1,0 +1,1 @@
+Derived from https://github.com/MeiGen-AI/Infinite-World at 1e8fc49ba7dc0f928c966c49c31fda9394c045d3. Original authors and citation retained in UPSTREAM_README.md. Original source is preserved with local demo additions; this repository is not a claim of authorship of the upstream research.
