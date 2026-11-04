@@ -4,3 +4,7 @@ __pycache__/
 checkpoints/
 outputs/
 .pytest_cache/
+node_modules/
+.env
+.testdriver/
+test-results/
